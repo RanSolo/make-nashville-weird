@@ -20,4 +20,12 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  booty: 'booty'
+  company_name: 'Ran Solo Dev'
+  make_nashville_weird: 'Make Nashville Weird'
+  make_nashville: 'Make Nashville '
+  w: 'W'
+  e: 'E'
+  i: 'I'
+  r: 'R'
+  d: 'D'
